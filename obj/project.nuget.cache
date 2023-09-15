@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zj8J8/BtoDBbOtLGIsmnUqs1lwJYDJHBuYavWqfkQauKDtLkHUS5zvO2i9p2f5mMW/KyhSrjjGpyVmJjOgCZ0Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lenin\\OneDrive\\Documentos\\campus\\csharp\\pruebaJson\\pruebaJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
